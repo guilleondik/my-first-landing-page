@@ -93,12 +93,14 @@ a:hover {
     width: 175px;
     height: 175px;
     border-radius: 20px;
+    margin-bottom: 12px;
 }
 
 .cubos {
     display: flex;
     gap: 50px;
     justify-content: center;
+    margin-bottom: 35px;
 }
 
 .info-h {
@@ -108,4 +110,9 @@ a:hover {
     font-size: 36px;
     font-weight: bold;
     color: #1f2937;
+}
+
+.desc {
+    max-width: 175px;
+    text-align: center;
 }
