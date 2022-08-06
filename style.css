@@ -3,6 +3,7 @@
 body {
     font-family: 'Roboto', sans-serif;
     background-color: #1f2937;
+    margin: 0%;
 }
 
 .header {
@@ -38,6 +39,7 @@ a:hover {
     align-items: flex-start;
     background-color: #1f2937;
     gap: 40px;
+    margin-bottom: 100px;
 }
 
 .izq {
@@ -79,4 +81,31 @@ a:hover {
     font-size: 24px;
     color: #f9faf8;
     font-weight: bold;
+}
+
+.two {
+    background-color: white;
+    padding: 50px;
+}
+
+.cubito {
+    border: solid #3882f6;
+    width: 175px;
+    height: 175px;
+    border-radius: 20px;
+}
+
+.cubos {
+    display: flex;
+    gap: 50px;
+    justify-content: center;
+}
+
+.info-h {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 50px;
+    font-size: 36px;
+    font-weight: bold;
+    color: #1f2937;
 }
