@@ -39,7 +39,7 @@ a:hover {
     align-items: flex-start;
     background-color: #1f2937;
     gap: 40px;
-    margin-bottom: 100px;
+    margin: 120px;
 }
 
 .izq {
@@ -85,7 +85,7 @@ a:hover {
 
 .two {
     background-color: white;
-
+    padding: 115px;
 }
 
 .cubito {
@@ -139,5 +139,5 @@ a:hover {
     display: flex;
     justify-content: center;
     background-color: #e5e7eb;
-    padding: 50px;
+    padding: 115px;
 }
