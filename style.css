@@ -71,7 +71,7 @@ a:hover {
     color: #f9faf8;
     background-color: #3882f6;
     border: none;
-    font-weight: bold;
+    font-weight: 700;
     border-radius: 5px;
     padding: 8px 32px;
     margin-top: 8px;
@@ -139,5 +139,57 @@ a:hover {
     display: flex;
     justify-content: center;
     background-color: #e5e7eb;
-    padding: 115px;
+    padding: 120px;
+}
+
+.four {
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 125px;
+}
+
+.call {
+    background-color: #3882f6;
+    width: 1050px;
+    height: 125px;
+    border-radius: 10px;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.action {
+    color: #f9faf8;
+    font-size: 24px;
+    font-weight: 700;
+    margin-bottom: 0%;
+}
+
+.sub-action {
+    color: #e5e7eb;
+    font-size: 18px;
+    margin-top: 0%;
+}
+
+.otro {
+    font-size: 18px;
+    font-weight: 700;
+    color: #f9faf8;
+    background-color: #3882f6;
+    border: 2px solid #f9faf8;
+    border-radius: 8px;
+    padding: 6px;
+    width: 135px;
+}
+
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #f9faf8;
+    padding: 25px;
+    font-size: 18px;
 }
